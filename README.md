@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~
     surya_ball = int(input())
     vijay_ball = int(input())
     # Swap using temporary variable (basket)
@@ -25,9 +26,7 @@ End the program
     surya_ball = vijay_ball
     vijay_ball = basket
     print("Swapped values are:",surya_ball,vijay_ball)
-
-
-
+~~~
 ## OUTPUT:
 ![output](Output.png)
 
